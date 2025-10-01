@@ -3,10 +3,20 @@ spring:
     url: jdbc:postgresql://127.0.0.1:5432/libarydb
     username: postgres
     password: secret
+    hikari:
+      pool-name: libraryApp-db-con-pool # helpful in debugging
+      maximum-pool-size: 30 # number of connections
+      minimum-idle: 10 # minimum number of idle connections
+      connection-timeout: 20000 # 20 seconds
+      idle-timeout: 300000 # 5 minutes
+      max-lifetime: 1800000 # 30 minutes
+      keepalive-time: 120000 # 2 minutes
+
   jpa:
     generate-ddl: true
     open-in-view: false
     show-sql: true
+
     hibernate:
       ddl-auto: 'create-drop'
 
