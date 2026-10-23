@@ -1,0 +1,167 @@
+SLID 1 -- 30 seconds
+
+Hello and Good evening everyone, Thank you for the opportunity to present my promotion case.
+
+The question I would like to answer today is: why PC1, and why now?
+
+My case is based not only on technical delivery, but on how my contribution has evolved across four dimensions: 
+platform leadership, engineering and people capability, client impact and commercial growth.
+
+
+
+Transition : - I Would like to share some brief note about myself
+
+Slide 2 — Brief Note About Self   - 1 minute
+
+By way of background, I have more than 11 years of experience in technology, supported by a B.Tech in Electronics and Communication Engineering.
+I remain genuinely passionate about technology and continuous learning. 
+Outside work, I enjoy photography, literature and travel.
+I am a family-oriented person and father of a four-year-old son. This keeps me grounded and has strengthened qualities 
+such as patience, responsibility and empathy.
+I believe in  integrity, karma and helping others succeed. These values directly shape how I work. 
+I take ownership, support people beyond my immediate responsibilities and 
+focus on sustainable outcomes rather than only completing the task .
+I believe this combination of technical curiosity, accountability and people focus defines my leadership style.
+
+Transition : - Let me now move from who I am to the evidence of how my scope and impact have evolved.
+
+SLID 3
+
+Core performance
+
+My current role is Java Technical Lead for critical services within the BACS Payments Processor, or BPP—a greenfield and business-critical payments platform.
+I lead a team of eight engineers across the full SDLC, working closely with Product, QA, engineering and wider stakeholders.
+The most important evolution in my role is that I am no longer focused only on delivering my own service. My scope now includes cross-service architecture, platform resilience, engineering standards, delivery risk and the technical capability of the wider team.
+Rather than going through every item I would categories them into three themes.
+
+First: platform architecture and resilience
+I helped build critical BPP capabilities from the ground up and shaped event-driven architecture, CDC and resilience patterns across micro services.
+
+We worked and championed Chaos Engineering because resilience in a payments platform should not be assumed after implementation. 
+Failure scenarios should be identified and validated proactively, before they affect customers or production operations.
+This work required balancing Scalability, Reliability, data consistency, operability and delivery timelines.
+It also tought me to identify dependencies and technical risks early, make trade-offs visible and influence decisions that were right for the platform as a whole.
+
+Second: engineering excellence at scale
+I have focused on converting successful technical approaches into reusable engineering capability.
+
+Examples include a database-agnostic Liquibase framework, reusable Spring Boot starters libraries, repository accelerators and standardised Kafka failure handling through DLT processors.
+
+I also embedded BDD, design reviews and code-quality controls earlier in development. Our objective was to prevent quality issues from becoming future technical debt, rather than relying on later testing phases to identify them.
+
+I supported performance optimisation for priority batch-processing scenarios and used Generative AI tools pragmatically to enhance productivity, while retaining engineering judgement, validation and review discipline.
+
+These initiatives are important because their impact extends beyond one feature or service. Reusable standards improve consistency, accelerate delivery and reduce risk across multiple engineers and teams.
+
+Third: end-to-end delivery leadership
+Greenfield delivery introduced infrastructure constraints, evolving dependencies and high-pressure milestones.
+
+We worked across these boundaries and prioritised the Loans Direct Debit Collection into SIT in September 26, 
+
+We have planned our first production release in early 2027, where I will remaine closely engaged during the provide best support in hypersensitive phase differentiating Capco from other multiple stakeholders and vendors.
+
+This is where I believe my contribution has moved beyond individual technical delivery into leadership that enables the wider team to succeed.
+
+Overall, my core performance demonstrates a progression from service-level execution to cross-service influence, platform thinking and end-to-end accountability.
+
+
+Community contribution
+My impact also extends beyond the project.
+
+I am a trusted Level 2 interviewer for LBG and NatWest. The outcomes include 100% client selection for LBG and approximately 90% for NatWest.
+
+Over the last year, I have conducted more than 200 interviews, while maintaining a strong talent-quality bar.
+
+However, I did not want this contribution to remain dependent on individual judgement, therefore created a standardised backend interview framework to improve consistency, fairness and feedback quality in hiring process.
+
+We are also working to develop more internal interview panellists, reducing dependency on third parties and strengthening Capco’s own assessment capability.
+
+Beyond hiring, I have led knowledge-sharing sessions across Kafka, microservices patterns and Spring Boot Internals, regularly shared relevant technology insights.
+
+Already discussing with Sidharth to contribute in the development of a broader Capco India technology community so that we can reach to wider audience.
+
+These activities represent multiplier impact: not only applying my own knowledge, but helping improve the capability of others.
+
+
+Learning and development
+BPP has deepened my expertise in payments, distributed systems and resilient architecture.
+
+More importantly, it has strengthened my ability to choose technology by evaluating trade-offs and to combine architecture with stakeholder management, risk management and delivery leadership.
+
+My next learning priority is to move beyond being only a user of AI-assisted tools but start learning LLMs, RAG and agentic AI. My aim is to apply these technologies responsibly to real engineering and client problems.
+
+
+
+Transition:
+The next question is how I would apply this experience and mindset at PC1.
+
+SLID 4
+
+I would represent Capco as a trusted technology partner, not simply as a delivery provider.
+
+For a new proposal, I would begin with the client’s business problem and desired outcome, and then translate that into a clear technology and delivery approach.
+
+I would bring relevant Capco capabilities, accelerators and delivery experience into the proposition. I would explicitly communicate the expected value, key risks and architectural trade-offs.
+
+Where the problem extends beyond my expertise, I would involve the right Capco subject-matter experts. I believe strong leadership includes knowing when to bring in additional perspectives rather than attempting to solve everything alone.
+
+With great client experience, would establish Capco as long term partner.
+
+Ultimately, client credibility comes from sound judgement, constructive challenge, transparent commitments and predictable delivery.
+
+
+In a difficult situation, we would first establish the facts, business impact and immediate risks.
+
+I would take clear ownership and communicate transparently with the relevant stakeholders.
+
+For an escalation, my first priority would be to stabilise the situation. I would then address the root cause and introduce systemic prevention.
+When we started in a multi vendor team dynamics in LBG, escalations came across but we had constructive discussions and proactive resolution avoiding further conflicts. This smooth remediation concreated client trust into Capco's talent and management.
+
+Our objective was not simply be to close an incident but to strengthen controls, prevent recurrence and reinforce the client’s confidence in Capco’s ability to respond responsibly.
+
+What I would change at PC1
+In the new role, I would make three deliberate shifts.
+
+First, I would move from service ownership to domain ownership, ensuring that decisions optimise the wider solution rather than an individual component.
+
+Second, I would scale impact through reusable standards, patterns and accelerators, instead of repeatedly solving similar problems within separate teams.
+
+Third, I would increase my focus on people development, client value and commercial opportunities.
+
+I would continue encouraging learning and knowledge sharing because sustainable organisational growth comes from increasing the capability of others—not from creating dependency on one individual.
+
+If I am not selected
+If I am not selected, I would seek specific feedback against PC1 expectations and convert any identified gaps into measurable development actions.
+My commitment to the client, team and Capco would remain unchanged. I would continue operating with broader ownership and demonstrate sustained next-level impact.
+For me, the title should follow consistent evidence of the required scope and behaviours.
+
+Transition:
+Finally, I would like to connect this delivery and leadership credibility to commercial value and my forward plan.
+
+SLID 5
+Commercial contribution
+
+My commercial contribution to date has primarily developed through technical credibility, talent quality and account growth.
+I helped fulfil six critical roles— five SE and one CO aligned to the client’s capability requirements.
+The performance of those placements increased client confidence in Capco talent and contributed to Capco becoming a preferred option when new requirements emerged.
+As one of the early BPP team members, I also contributed to growing Capco’s footprint to approximately 12 team members, associated with approximately USD 1 million in revenue.
+More importantly, the relationship has progressed from reactive staffing to proactive engagement, where I am approached when new resource needs arise.
+I see the next step as converting this trust into more deliberate opportunity identification: understanding demand earlier, helping shape the capability required, positioning the right Capco talent and partnering with account leadership to grow the account responsibly.
+
+Go-forward plan
+My go-forward plan has three priorities.
+The first is broader architecture and engineering ownership: moving from services to solution and domain architecture, while scaling reusable standards, accelerators and AI-assisted engineering.
+The second is people leverage: increasing team autonomy through mentoring, delegation and the development of additional technical leaders.
+The third is client and commercial influence: deepening my payments expertise, strengthening trusted-advisor relationships, influencing technology decisions and identifying demand earlier.
+The customer appreciation included on this slide independently reinforces the pattern I have described: strong technical ownership, commitment to quality, proactive support for others, sound engineering practices and influence beyond an individual-contributor role.
+For me, this is important because the strongest evidence of impact is not only how I assess my contribution, but also how the client experiences it.
+
+SLID 6
+
+To close, I believe my readiness for PC1 is demonstrated not by one achievement, but by the breadth and repeatability of my impact.
+I am delivering business-critical technology, shaping platform decisions, scaling engineering standards, developing people, earning client trust and contributing to account growth.
+My next step is to do this with greater domain ownership and wider organisational influence.
+I am not positioning my promotion case only on future potential. I believe the evidence shows that my scope has already expanded beyond service delivery into architecture, people, client outcomes and Capco growth.
+I am ready to progress from being a strong technical lead within the programme to a PC1 who consistently connects technology, people, client value and commercial impact.
+
+Thank you. I welcome your questions.
